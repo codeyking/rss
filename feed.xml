@@ -1,12 +1,18 @@
-<? xml version="1.0" ?>
 <rss version="2.0">
-<channel>
-<title>Codey's Build</title>
-<description></description>
-<link>http://www.yourweb.com</link>
-<item>
-<title>Thank you for downloading my build, </title>
-<description> Enjoy </description>
-<link>http://www.comingsoon.com</link>
-</channel>
+ <channel>
+  <title>Codey's Build</title>
+  
+  <item>
+   <title>Thank you for using my build, </title>
+  </item>
+  
+  <item>
+   <title>Even more updates are coming soon. Stay tuned!</title>
+  </item>
+  
+  <item>
+   <title>Enjoy.</title>
+  </item>
+  
+ </channel>
 </rss>
