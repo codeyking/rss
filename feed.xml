@@ -1,10 +1,12 @@
-<?xml version="1.0"?>
+<? xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>Codey's Build -</title>
-<description>Thank you for installing my build, I hope you enjoy using it, many other builds are available in our Wizard</description>
+<title>Codey's Build</title>
+<description></description>
+<link>http://www.yourweb.com</link>
 <item>
-<title>Team Underground -</title>
-<description>TV packages also available, contact your seller for more info.</description>
+<title>Thank you for downloading my build, </title>
+<description> Enjoy </description>
+<link>http://www.comingsoon.com</link>
 </channel>
 </rss>
